@@ -6,7 +6,7 @@ node{
     echo "Testing the Application"
   }
   stage ('Deploying the application') {
-  echo "deploying the application"
+  echo "Deploying the application"
 }
 }
   
